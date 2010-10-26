@@ -61,6 +61,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Matrix.h" />
+    <ClInclude Include="MatrixArithmetic.h" />
+    <ClInclude Include="ProgramTimer.h" />
     <ClInclude Include="VertexTransformations.h" />
     <ClInclude Include="Vertex.h" />
     <ClInclude Include="VertexArithmetic.h" />
@@ -68,6 +70,8 @@
   <ItemGroup>
     <ClCompile Include="GeometryManipulation.cpp" />
     <ClCompile Include="Matrix.cpp" />
+    <ClCompile Include="MatrixArithmetic.cpp" />
+    <ClCompile Include="ProgramTimer.cpp" />
     <ClCompile Include="VertexTransformations.cpp" />
     <ClCompile Include="Vertex.cpp" />
     <ClCompile Include="VertexArithmetic.cpp" />

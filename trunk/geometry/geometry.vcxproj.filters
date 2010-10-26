@@ -27,6 +27,12 @@
     <ClInclude Include="VertexTransformations.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="MatrixArithmetic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgramTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Matrix.cpp">
@@ -42,6 +48,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="VertexTransformations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixArithmetic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgramTimer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
